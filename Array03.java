@@ -18,6 +18,7 @@ public class Array03 {
 				}
 			}
 		}
+		System.out.println();
 		System.out.println("由小到大");
 		for (int i = 0; i < 10; i++) {
 			System.out.print(b[i] + " ");
